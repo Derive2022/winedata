@@ -6,4 +6,4 @@ In the project directory, you can run:
 
 ### `yarn eject` to eject from the application.
 
-![Alt Text](./public/logo192.png)
+![Alt Text](./public/TableScreenshot.png)
